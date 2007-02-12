@@ -1,5 +1,5 @@
 Summary:	Marathi dictionary for aspell
-Summary(pl.UTF-8):   Słownik marathijski dla aspella
+Summary(pl.UTF-8):	Słownik marathijski dla aspella
 Name:		aspell-mr
 Version:	0.10
 %define	subv	0
