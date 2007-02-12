@@ -1,5 +1,5 @@
 Summary:	Marathi dictionary for aspell
-Summary(pl):	S≥ownik marathijski dla aspella
+Summary(pl.UTF-8):   S≈Çownik marathijski dla aspella
 Name:		aspell-mr
 Version:	0.10
 %define	subv	0
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Marathi dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik marathijski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik marathijski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-mr-%{version}-%{subv}
